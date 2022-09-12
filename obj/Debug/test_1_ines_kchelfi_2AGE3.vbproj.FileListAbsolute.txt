@@ -1,0 +1,71 @@
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.exe.config
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.exe
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.pdb
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.xml
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.Common.dll
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.NetworkVariable.dll
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.dll
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.WindowsForms.dll
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.Common.xml
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.NetworkVariable.xml
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.xml
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.WindowsForms.xml
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.AssemblyReference.cache
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.Form1.resources
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.Resources.resources
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.GenerateResource.cache
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.exe.licenses
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.CoreCompileInputs.cache
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.CopyComplete
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.exe
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.xml
+C:\Users\NOURHENE\Desktop\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.pdb
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.exe.config
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.exe
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.pdb
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.xml
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.Common.dll
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.NetworkVariable.dll
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.dll
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.WindowsForms.dll
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.Common.xml
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.NetworkVariable.xml
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.xml
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.WindowsForms.xml
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.AssemblyReference.cache
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.Form1.resources
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.Resources.resources
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.GenerateResource.cache
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.exe.licenses
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.CoreCompileInputs.cache
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.CopyComplete
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.exe
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.xml
+C:\Users\21692\Desktop\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.pdb
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.AssemblyReference.cache
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.SuggestedBindingRedirects.cache
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.Form1.resources
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.GenerateResource.cache
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.exe
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.xml
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.pdb
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.exe.config
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.exe
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.pdb
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\test_1_ines_kchelfi_2AGE3.xml
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.Common.dll
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.NetworkVariable.dll
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.dll
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.WindowsForms.dll
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.Styles3D.dll
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.Common.xml
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.NetworkVariable.xml
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.xml
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\bin\Debug\NationalInstruments.UI.WindowsForms.xml
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.Resources.resources
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.exe.licenses
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.CoreCompileInputs.cache
+C:\Users\21692\Desktop\Automatisme projet\Ines_Kchelfi_Interface_finale_2AGE3\Ines_Kchelfi_2AGE3\ines\test_1_ines_kchelfi_2AGE3\obj\Debug\test_1_ines_kchelfi_2AGE3.vbproj.CopyComplete
